@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.ivantica</groupId>
     <artifactId>saludo_jenkins</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>saludo_jenkins</name>
     <description>saludo_jenkins</description>
     <url/>
